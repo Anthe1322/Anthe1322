@@ -4,8 +4,8 @@
 
 ## 📬 Contacts
 
-- 💬 Discord: "@anthe0001"
-- 💬 Email: "anthe0001@gmail.com"
+- 💬 Discord: `@anthe0001`
+- 💬 Email: `anthe0001@gmail.com`
 
 ---
 
